@@ -5,7 +5,7 @@ locale: en_US
 description: Just another self serving deep learning blog
 logo: site-logo.png
 search: true
-url: http://sorenbouma.github.io
+url: https://sorenbouma.github.io
 
 # Jekyll configuration
 
