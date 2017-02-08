@@ -21,3 +21,16 @@ $$h_\theta =  \sigma(reLU(X.W_1+b_1).W_2 + b_2)  $$
 
 this right here should be an image:
 ![what the fuck]({{ site.url }}/images/anneke2.jpg)
+
+
+this right here should be some python code:
+
+{% highlight python %}
+def to_onehot(intarray):
+    n = len(intarray)
+    d = intarray.max()
+    y=np.zeros((n,d))
+    for i in range(n):
+        y[i,intarray[i]] = 1
+    return y
+{% endhighlight %}
