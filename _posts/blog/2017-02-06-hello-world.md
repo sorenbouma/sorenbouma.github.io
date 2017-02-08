@@ -11,4 +11,3 @@ this right here should be math:
 
 this right here should be an image:
 ![]({{site.baseurl}}/_posts/blog/profile.jpeg)![profile.jpeg]({{site.baseurl}}/_posts/blog/profile.jpeg)
-
