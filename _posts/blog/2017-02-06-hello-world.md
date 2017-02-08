@@ -9,5 +9,12 @@ published: true
 this right here should be math:
 \\[ \frac{1}{n^{x}} \\]
 
+
+
+more math?!
+
+$$softmax(x) =    \frac{e^{x}}  {\sum_{i} e^{x_i}}  $$
+
+
 this right here should be an image:
-![what the fuck]({{ site.url }}/images/bio-photo.jpg)
+![what the fuck]({{ site.url }}/images/anneke2.jpg)
