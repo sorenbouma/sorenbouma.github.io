@@ -16,5 +16,8 @@ more math?!
 $$softmax(x) =    \frac{e^{x}}  {\sum_{i} e^{x_i}}  $$
 
 
+$$h_\theta =  \sigma(reLU(X.W_1+b_1).W_2 + b_2)  $$
+
+
 this right here should be an image:
 ![what the fuck]({{ site.url }}/images/anneke2.jpg)
