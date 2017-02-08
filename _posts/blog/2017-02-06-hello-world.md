@@ -2,7 +2,7 @@
 layout: post
 title: MAthjax testing
 categories: blog
-date: {}
+date: 2017-02-06
 published: true
 ---
 
