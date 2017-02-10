@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mathjax testing
+title: Don't mind me, just learning jekyll
 categories: blog
 date: 2017-02-06
 published: true
@@ -34,3 +34,9 @@ def to_onehot(intarray):
         y[i,intarray[i]] = 1
     return y
 {% endhighlight %}
+
+
+
+this right here should be a video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=FL5M1H-Rljk" frameborder="0"></iframe>
