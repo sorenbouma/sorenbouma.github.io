@@ -40,5 +40,5 @@ def to_onehot(intarray):
 this right here should be a youtube video?:
 
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/pdSp4Y4GOQs" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=FL5M1H-Rljk" frameborder="0"> </iframe>
 
