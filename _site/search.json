@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "One Shot Learning with Siamese Networks in Keras!",
+      "link"			: "https://sorenbouma.github.io/blog/oneshot/",
+      "excerpt"		: "UNDER CONSTRUCTION - MOVE ALONG THIS PROBABLY DOESNT MAKE SENSE YET"
+    }
+  
+
+  
+    ,{
       "title"			: "Hello World",
       "link"			: "https://sorenbouma.github.io/hello-world/",
       "excerpt"		: "this right here should be math: \frac{1}{n^{x}} "
@@ -23,13 +31,13 @@
   
 
   
-
-  
     ,{
       "title"			: "About me",
       "link"			: "https://sorenbouma.github.io/about/",
       "excerpt"		: "I suck at making websites"
     }
+  
+
   
 
   
