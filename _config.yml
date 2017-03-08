@@ -38,7 +38,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Soren Bouma
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: sbou093@aucklanduni.ac.nz
   disqus-shortname:
   twitter: __soren_
   facebook: #username
