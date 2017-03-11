@@ -4,7 +4,7 @@ title: About me
 excerpt: "..."
 modified: 2017-03-11T19:44:38.564948-04:00
 image:
-  feature: omniglot_header.jpg
+  feature: omniglot_header_dark.jpg
 ---
 
 
