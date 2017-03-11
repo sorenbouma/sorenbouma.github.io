@@ -1,17 +1,13 @@
 ---
 layout: page
-title: About me 
-excerpt: "I suck at making websites"
-modified: 2014-08-08T19:44:38.564948-04:00
+title: About me
+excerpt: "..."
+modified: 2017-03-11T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: omniglot_header.jpg
 ---
 
-## about me:
 
-Neural network nerd. Undergrad at the University of Auckland.
+I'm an undergrad at the University of Auckland in my second year of studying CS. I have been obssessively learning about neural networks and AI in my spare time since I first saw [DeepDream](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) in mid 2015. Now I've absorbed enough knowledge from MOOCs and implementing stuff that I want to share my projects with the world.
 
-
-[^1]: Example: *domain.com/category-name/post-title*
+If one of my posts has a mistake, or if you have a question about something, please go ahead and contact me at the reverse of zn.ca.inudnalkcua@390uobs.
