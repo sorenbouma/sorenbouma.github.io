@@ -9,6 +9,7 @@ url: https://sorenbouma.github.io
 
 # Jekyll configuration
 
+comments: true
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
@@ -39,7 +40,7 @@ owner:
   name: Soren Bouma
   avatar: bio-photo.jpg
   email: sbou093@aucklanduni.ac.nz
-  disqus-shortname:
+  disqus-shortname: sorenbouma
   twitter: __soren_
   facebook: #username
   github: sorenbouma
